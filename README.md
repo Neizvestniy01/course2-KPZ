@@ -7,4 +7,5 @@
 - Fail Fast - виявлення можливих помилок в класі Reporting [приклад](https://github.com/Neizvestniy01/course2-KPZ/blob/Lab1/Lab1/ClassLibrary1/Class1.cs#L96-L118)
 - Composition Over Inheritance - клас Reporting використовує Warehouse через композицію [приклад](https://github.com/Neizvestniy01/course2-KPZ/blob/Lab1/Lab1/ClassLibrary1/Class1.cs#L86-L90)
 - SOLID (S - Single Responsibility Principle) - кожен клас виконує лише свою, поставлену йому задачу [приклад](https://github.com/Neizvestniy01/course2-KPZ/blob/Lab1/Lab1/ClassLibrary1/Class1.cs#L6-L26)
-- SOLID (O - Open/Closed Principle) - класи можуть бути розширені, але функціонал залишиться незмінним (Warehouse не підпадає під цей принцип) [приклад](https://github.com/Neizvestniy01/course2-KPZ/blob/Lab1/Lab1/ClassLibrary1/Class1.cs#L28-L48)
+- SOLID (O - Open/Closed Principle) - класи можуть бути розширені, але функціонал залишиться незмінним (Warehouse не підпадає під цей принцип) [приклад](https://github.com/Neizvestniy01/course2-KPZ/blob/Lab1/Lab1/ClassLibrary1/Class1.cs#L28-L48)  
+[діаграма](https://github.com/Neizvestniy01/course2-KPZ/blob/Lab1/Lab1/diagram.jpg)
