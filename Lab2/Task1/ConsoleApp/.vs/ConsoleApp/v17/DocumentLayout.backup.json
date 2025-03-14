@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\KPZ\\Lab2\\Task1\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85EB6692-0E6F-4B8A-BBFC-8C4602A97682}|ConsoleApp.csproj|c:\\users\\admin\\documents\\kpz\\lab2\\task1\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EB6692-0E6F-4B8A-BBFC-8C4602A97682}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AE1F9F-AAEC-4918-843F-A752DBED7EB1}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\admin\\documents\\kpz\\lab2\\task1\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\KPZ\\Lab2\\Task1\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\KPZ\\Lab2\\Task1\\ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\Class1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:10:35.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\KPZ\\Lab2\\Task1\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\KPZ\\Lab2\\Task1\\ConsoleApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:10:15.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

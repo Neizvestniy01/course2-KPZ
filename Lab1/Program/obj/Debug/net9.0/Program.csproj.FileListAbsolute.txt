@@ -16,3 +16,4 @@ C:\Users\admin\Documents\KPZ\Lab1\Program\obj\Debug\net9.0\refint\Program.dll
 C:\Users\admin\Documents\KPZ\Lab1\Program\obj\Debug\net9.0\Program.pdb
 C:\Users\admin\Documents\KPZ\Lab1\Program\obj\Debug\net9.0\Program.genruntimeconfig.cache
 C:\Users\admin\Documents\KPZ\Lab1\Program\obj\Debug\net9.0\ref\Program.dll
+C:\Users\admin\Documents\KPZ\Lab1\Program\obj\Debug\net9.0\Program.sourcelink.json
