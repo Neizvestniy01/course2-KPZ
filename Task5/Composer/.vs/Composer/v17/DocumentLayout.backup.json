@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task5\\Composer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0279906A-F69D-4EBF-BB33-2CBF4CF5FDEB}|Composer.csproj|c:\\users\\admin\\documents\\kpz\\lab3\\task5\\composer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0279906A-F69D-4EBF-BB33-2CBF4CF5FDEB}|Composer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A613F9A-4848-44B8-9D4D-77ABAE5A950D}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\admin\\documents\\kpz\\lab3\\task5\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task5\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task5\\ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\Class1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:19:49.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task5\\Composer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task5\\Composer\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAcAAADQPzFHpncxwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:19:34.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

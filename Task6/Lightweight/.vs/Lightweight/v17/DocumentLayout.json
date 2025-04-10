@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task6\\Lightweight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A25DAE-295A-49DA-9126-B7F48D0E4768}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\admin\\documents\\kpz\\lab3\\task6\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD80780-E5B8-4CE8-94AC-4D5EB982E877}|Lightweight.csproj|c:\\users\\admin\\documents\\kpz\\lab3\\task6\\lightweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD80780-E5B8-4CE8-94AC-4D5EB982E877}|Lightweight.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task6\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task6\\ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:38:29.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task6\\Lightweight\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\KPZ\\Lab3\\Task6\\Lightweight\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:37:52.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
